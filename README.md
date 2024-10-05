@@ -78,6 +78,20 @@ const { getHistoricalRates } = require('dukascopy-node');
 
 ---
 
+## Source data
+
+https://www.dukascopy.com/trading-tools/widgets/quotes/historical_data_feed
+
+---
+
+## To check csv file from jupyter python
+
+```
+jupyter notebook
+```
+
+---
+
 ## 📖 Quick start
 * [Basic usage of `dukascopy-node`](https://www.dukascopy-node.app/output-formats)
 * [Downloading tick data](https://www.dukascopy-node.app/downloading-tick-data)
